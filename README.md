@@ -14,6 +14,11 @@ time.
 You can find this theme on
 [userstyles.org](https://userstyles.org/styles/145886/mdn-compact)
 
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](/LICENSE.txt)
+
+To the extent possible under law, I have waived all copyright and related or
+neighboring rights to MDN Compact. This work is published from France.
+
 ## Screenshots
 
 ### Desktop view
