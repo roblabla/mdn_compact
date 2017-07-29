@@ -1,0 +1,35 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("developer.mozilla.org") {
+  /* Make the top bar 45px height */
+  .logo {
+    top: 10px;
+    height: 35px;
+    width: 126px;
+  }
+  .login > a {
+    line-height: 45px;
+  }
+  .search-wrap {
+    line-height: 45px;
+  }
+  .nav-main-item > a {
+    line-height: 45px;
+  }
+
+  /* Article meta should fit page-buttons */
+  .article-meta {
+    height: 45px;
+  }
+
+  /* Put document-head (the article name) inside the nav */
+  .document-head {
+    top: -60px;
+    left: 26%;
+    height: 0;
+  }
+
+  .document-head > h1 {
+    margin: 0;
+  }
+}
